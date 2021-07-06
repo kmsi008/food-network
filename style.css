@@ -36,3 +36,28 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+#middle-recipies{
+    color: gray;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.food-test{
+
+    border-radius: 10px;
+    height: 410px;
+    padding: 10px;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow:10px 10px 50px gray;
+}
+
+
+.f-img-size {
+    padding: 8%;
+    height: 200px;
+    width: 250px;
+}
+#footer{
+ text-align: center;
+}
