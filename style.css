@@ -60,4 +60,8 @@ section{
 }
 #footer{
  text-align: center;
+ background-color: rgb(218, 19, 19);
+ font-weight: 900;
+ background-size: auto;
+ 
 }
