@@ -12,6 +12,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-wid{
@@ -26,6 +27,12 @@ section{
     font-weight: 900;
     color: rgb(34, 5, 5);
     background-image: linear-gradient(rgb(230, 226, 8), rgb(205, 209, 149));
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 10px 15px;
+}
+
+.about-me{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
